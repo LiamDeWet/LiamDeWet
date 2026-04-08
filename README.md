@@ -1,5 +1,7 @@
 
 # Hi there, I'm Liam De Wet👋
+
+## Life Choices YouthCode Github Profile
 <br>
 
 
@@ -20,7 +22,9 @@ I occasionally build fun and interactive websites as a hobby, but can also be fo
 
 
 ## 📂 Projects:
-Check Repositories for a few of my Projects.
+Check out my original Github account to see all my projects:
+<br>
+[![Old GitHub](https://img.shields.io/badge/Previous%20GitHub-ANONYMOUSx46-black?logo=github)](https://github.com/ANONYMOUSx46)
 <br>
 
 ## ✉️ Contact:
